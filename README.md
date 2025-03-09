@@ -206,7 +206,7 @@ Before deploying the e-commerce platform, the first step is to clone the GitHub 
          - Clone our remote repository on the Linux Server
 
             ```bash
-            git clone git@github.com:fmanimashaun/MarketPeak_Ecommerce.git
+            git clone git@github.com:ifeDevops-qa/MarketPeak_Ecommerce.git
             ```
              ![clone rep to server](./screenshots/15.clone_rep_server.png)
 
